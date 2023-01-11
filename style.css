@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    background-color: rgb(166, 242, 255);
+}
+
+li {
+    list-style: none;
+}
+
+a:link,
+a:visited {
+    background-color: #2e8fff;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-style: solid;
+    border-color: black;
+    border-radius: 50px;
+    border-width: thin;
+    margin: 4px 2px;
+}
+
+a:hover,
+a:active {
+    background-color: #0077ff;
+}
+
+h1 {
+    color: black;
+    font-family: 'Raleway', sans-serif;
+    font-size: 62px;
+    font-weight: 800;
+    line-height: 72px;
+    margin: 0 0 24px;
+    text-align: center;
+    text-transform: uppercase;
+}
